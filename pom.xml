@@ -6,6 +6,7 @@
   <packaging>jar</packaging>
   <version>1.0.0</version>
   <name>my-maven-project</name>
+  <description>test for example</description>
   <url>http://maven.apache.org</url>
   <licenses>
     <license>
@@ -15,7 +16,6 @@
   </licenses>
   <developers>
     <developer>
-      <id>robinhunan</id>
       <name>robinhunan</name>
       <email>zhuyubing@gmail.com</email>
       <roles>
